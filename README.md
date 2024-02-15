@@ -1,2 +1,2 @@
 # JAVA-PRACTICE
-basic programs and questions in java. 
+Basic programs and questions in java. 
